@@ -20,7 +20,7 @@ Ferramentas: <b>NPM</b>, <b>Yarn</b>, <b>VScode</b>
 </p>
 
 <p align="left">
-  💬 Interesse em aprender:
+  💬 Interesse em aprender: <b>Flutter</b>, <b>React Native</b>
     
 </p>
 
