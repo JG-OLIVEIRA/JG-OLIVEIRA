@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Meu nome é Jorge. Eu estou estudando para me tornar desenvolvedor Full-Stack, apesar de ter minha parte generalista, sou bastante curioso e procuro aprendizados. Estou disponível para ter uma conversa descontraída ou assuntos relacionado a trabalhos. Caso você precise, pode entrar em contato comigo.
+  Meu nome é Jorge. Eu estou estudando para me tornar desenvolvedor Full-Stack, sou bastante curioso e procuro aprendizados. Estou disponível para ter uma conversa descontraída ou assuntos relacionado a trabalhos. Caso você precise, pode entrar em contato comigo.
 </p>
 
 <p align="left">
