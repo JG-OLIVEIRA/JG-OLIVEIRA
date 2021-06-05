@@ -24,6 +24,12 @@ Ferramentas: <b>NPM</b>, <b>Yarn</b>, <b>VScode</b>
     
 </p>
 
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-OLIVEIRA)](https://github.com/JG-OLIVEIRA/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-OLIVEIRA&layout=compact)](https://github.com/JG-OLIVEIRA/github-readme-stats)
+
+
+
 <p align="left">
     Caso queira fazer algum projeto ou conversar comigo, pode me chamar nos links abaixo:⤵️
 </p>
