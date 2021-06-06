@@ -11,9 +11,11 @@
   
 Tecnologias: <b>Python</b>, <b>Javascript</b>, <b>CSS3</b>, <b>HTML5</b>, <b>C</b>
 
-Frameworks: <b>Node.js</b>, <b>Express.js</b>, <b>Sequelize.js</b>, <b>React.js</b>
+Frameworks: <b>Node.js</b>, <b>Express.js</b>, <b>Sequelize.js</b>, <b>Angular.js<b>, <b>Vue.js<b>
 
 Banco de dados: <b>MySQL</b>
+
+Bibliotecas: <b>React.js</b>
 
 Ferramentas: <b>NPM</b>, <b>Yarn</b>, <b>VScode</b>
     
