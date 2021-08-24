@@ -3,7 +3,11 @@
 <img src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Meu nome é Jorge. Eu estou estudando para me tornar desenvolvedor Full-Stack, sou bastante curioso e procuro aprendizados. Estou disponível para ter uma conversa descontraída ou assuntos relacionado a trabalhos. Caso você precise, pode entrar em contato comigo.
+  Programador Full Stack JavaScript. Com conhecimento prático em frameworks e bibliotecas para o desenvolvimento web moderno.
+
+  Cursa o primeiro período de Ciência da Computação na Universidade Estadual do Rio de Janeiro e, durante o primeiro semestre de 2021, participou do bootcamp em desenvolvimento Web Full Stack NodeJs da Digital House Brasil durante 5 meses, no qual foi desenvovido, em equipe, o projeto integrador Leva Meu livro.
+
+  Estou a procura de um estágio na área de desenvolvimento web para por minhas habilidades em prática e também aprimorar minhas soft skills.
 </p>
 
 <p align="left">
