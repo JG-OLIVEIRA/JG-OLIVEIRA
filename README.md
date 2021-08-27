@@ -38,9 +38,6 @@ Ferramentas: <b>NPM</b>, <b>Yarn</b>, <b>VScode</b>
 </p>
 
 <p align="left">
-  <a href="https://www.instagram.com/jorge.gdoliveira/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/"/></a>
-  
   <a href="https://www.linkedin.com/in/jorge-gon%C3%A7alves-de-oliveira-7570771a2/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"/></a>
   
