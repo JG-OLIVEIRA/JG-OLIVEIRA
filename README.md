@@ -1,9 +1,7 @@
 ### Olá 👋
 
-<img src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left">
-  Sou programador Full Stack JavaScript. Tenho conhecimento prático em frameworks e bibliotecas para o desenvolvimento web moderno.
+Sou programador Full Stack JavaScript. Tenho conhecimento prático em frameworks e bibliotecas para o desenvolvimento web moderno.
 
 Curso o primeiro período de Ciência da Computação na Universidade Estadual do Rio de Janeiro e, durante o primeiro semestre de 2021, participei do bootcamp em desenvolvimento Web Full Stack NodeJs da Digital House Brasil durante 5 meses, no qual foi desenvolvido, em equipe, o projeto integrador Leva Meu livro.
 
