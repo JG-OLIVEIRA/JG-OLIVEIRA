@@ -11,30 +11,30 @@ Estou a procura de um estágio na área de desenvolvimento web para por minhas h
 </p>
 
 <p align="left">
-  💬 Aprendendo: 
   
-Tecnologias: <b>Python</b>, <b>Javascript</b>, <b>CSS3</b>, <b>HTML5</b>, <b>C</b>
+Tecnologias:
 
-Frameworks: <b>Node.js</b>, <b>Express.js</b>, <b>Sequelize.js</b>, <b>Angular.js</b>, <b>Vue.js</b>, <b>Django</b>
+<ul>
+    <li>Javascript</li>
+    <li>CSS</li>
+    <li>HTML</li>
+    <li>Node</li>
+</ul>
 
-Banco de dados: <b>MySQL</b>
+Outras tecnologias:
 
-Bibliotecas: <b>React.js</b>
+<ul>
+    <li>React</li>
+    <li>Sequelize</li>
+    <li>Express</li>
+</ul>
 
-Ferramentas: <b>NPM</b>, <b>Yarn</b>, <b>VScode</b>
-    
-</p>
-
-<p align="left">
-  💬 Interesse em aprender: <b>Flutter</b>, <b>React Native</b>
-    
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-OLIVEIRA&layout=compact)](https://github.com/JG-OLIVEIRA/github-readme-stats)
 [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-OLIVEIRA)](https://github.com/JG-OLIVEIRA/github-readme-stats) 
 
 <p align="left">
-    Caso queira fazer algum projeto ou conversar comigo, pode me chamar nos links abaixo:⤵️
+    Caso queira fazer algum projeto ou conversar comigo, pode me chamar nos links abaixo:
 </p>
 
 <p align="left">
