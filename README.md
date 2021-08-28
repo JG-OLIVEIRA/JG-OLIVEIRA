@@ -43,8 +43,4 @@ Ferramentas: <b>NPM</b>, <b>Yarn</b>, <b>VScode</b>
   
   <a href="mailto:jorge.goliveira8@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  
-  <a href="https://api.whatsapp.com/send?phone=5521974843145&text=Olá!" alt="Whatsapp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
- 
 </p> 
