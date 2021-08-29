@@ -1,38 +1,18 @@
-### Olá 👋
+### Hi 👋
 
 <p align="left">
-Sou programador Full Stack JavaScript. Tenho conhecimento prático em frameworks e bibliotecas para o desenvolvimento web moderno.
-
-Curso o primeiro período de Ciência da Computação na Universidade Estadual do Rio de Janeiro e, durante o primeiro semestre de 2021, participei do bootcamp em desenvolvimento Web Full Stack NodeJs da Digital House Brasil durante 5 meses, no qual foi desenvolvido, em equipe, o projeto integrador Leva Meu livro.
-
-Estou a procura de um estágio na área de desenvolvimento web para por minhas habilidades em prática e também aprimorar minhas soft skills.
+My name is Jorge. I'm from Brazil, Rio de Janeiro. I currently focus on understanding computer programming.
 </p>
 
 <p align="left">
-  
-Tecnologias:
-
-<ul>
-    <li>Javascript</li>
-    <li>CSS</li>
-    <li>HTML</li>
-    <li>Node</li>
-</ul>
-
-Outras tecnologias:
-
-<ul>
-    <li>React</li>
-    <li>Sequelize</li>
-    <li>Express</li>
-</ul>
-
+Web development is my favorite area because I think it's the one most of the part technology that does TI more helpful and friendly due to the fact it contributes to the community of programs share knowledge. One example of this is the Github platform. Here is the place I put my progress in this studies.
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-OLIVEIRA&layout=compact)](https://github.com/JG-OLIVEIRA/github-readme-stats)
 [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-OLIVEIRA)](https://github.com/JG-OLIVEIRA/github-readme-stats) 
 
 <p align="left">
-    Caso queira fazer algum projeto ou conversar comigo, pode me chamar nos links abaixo:
+Contact me in the links below:
 </p>
 
 <p align="left">
