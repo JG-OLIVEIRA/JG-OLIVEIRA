@@ -1,18 +1,18 @@
-### Hi 👋
+### Olá 👋
 
 <p align="left">
-My name is Jorge. I'm from Brazil, Rio de Janeiro. I currently focus on understanding computer programming.
+Meu nome é Jorge. Eu moro no Brasil, Rio de Janeiro. Estou focado em aprender programação de computadores.
 </p>
 
 <p align="left">
-Web development is my favorite area because I think it's the one most of the part technology that does TI more helpful and friendly due to the fact it contributes to the community of programs share knowledge. One example of this is the Github platform. Here is the place I put my progress in this studies.
+Desenvolvimento Web é minha area favorita porque eu penso que é uma das mais importante parte das tecnologia que se mostrou util nos últimos tempos. É também um facilitador de comunicação com outros profissionais da area de TI, como por exemplo essa plataforma em questão na qual eu compartilho alguns do meu codigos já feitos.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-OLIVEIRA&layout=compact)](https://github.com/JG-OLIVEIRA/github-readme-stats)
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-OLIVEIRA)](https://github.com/JG-OLIVEIRA/github-readme-stats) 
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-OLIVEIRA)](https://github.com/JG-OLIVEIRA/github-readme-stats)
 
 <p align="left">
-Contact me in the links below:
+Estou disponível nas redes abaixo:
 </p>
 
 <p align="left">
@@ -21,4 +21,4 @@ Contact me in the links below:
   
   <a href="mailto:jorge.goliveira8@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p> 
+</p>
