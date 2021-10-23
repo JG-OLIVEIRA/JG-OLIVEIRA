@@ -4,10 +4,6 @@
 Meu nome é Jorge. Eu moro no Brasil, Rio de Janeiro. Estou focado em aprender programação de computadores.
 </p>
 
-<p align="left">
-Desenvolvimento Web é minha area favorita porque eu penso que é uma das mais importante parte das tecnologia que se mostrou util nos últimos tempos. É também um facilitador de comunicação com outros profissionais da area de TI, como por exemplo essa plataforma em questão na qual eu compartilho alguns do meu codigos já feitos.
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-OLIVEIRA&layout=compact)](https://github.com/JG-OLIVEIRA/github-readme-stats)
 [![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JG-OLIVEIRA)](https://github.com/JG-OLIVEIRA/github-readme-stats)
 
