@@ -1,7 +1,7 @@
 ### Olá 👋
 
 <p align="left">
-Meu nome é Jorge. Eu moro no Brasil, Rio de Janeiro. Estou focado em aprender programação de computadores.
+Meu nome é Jorge. Eu moro no Brasil, Rio de Janeiro e estou focado em aprender programação de computadores.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JG-OLIVEIRA&layout=compact)](https://github.com/JG-OLIVEIRA/github-readme-stats)
