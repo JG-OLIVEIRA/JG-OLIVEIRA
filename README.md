@@ -11,10 +11,7 @@ Meu nome é Jorge. Eu moro no Brasil, Rio de Janeiro e estou focado em aprender 
 Estou disponível nas redes abaixo:
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jorge-gon%C3%A7alves-de-oliveira-7570771a2/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"/></a>
-  
+<p align="left">  
   <a href="mailto:jorge.goliveira8@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
