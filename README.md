@@ -41,12 +41,6 @@ Sou um **Programador Java Backend Júnior** do Rio de Janeiro, Brasil, apaixonad
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🏆 Projetos
-Aqui estão alguns dos projetos em que trabalhei recentemente:
-
-- **planner-backend** Uma API backend em Java com Spring, utilizando a imagem docker do MySQL e o banco de dados postegress em produção.
-- **levameulivro-backend** Uma API backend em Node.js com Express.js, utilizando Sequelize para integrar com um banco de dados MySQL e Postegres em produção.ssss
-
 ## 📫 Vamos conversar!
 Estou sempre em busca de novas oportunidades e desafios. Se você tem algum projeto interessante ou uma vaga que combine com o meu perfil, entre em contato!
 
