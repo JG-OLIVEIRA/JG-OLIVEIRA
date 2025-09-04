@@ -3,7 +3,7 @@
 ## 🚀 Sobre mim
 
 Sou **desenvolvedor backend** do Rio de Janeiro, apaixonado por criar soluções escaláveis e eficientes.
-Atualmente estudo **Computação na UERJ** e busco sempre evoluir em boas práticas de desenvolvimento, arquitetura de sistemas e integração entre serviços.
+Atualmente estudo **Ciência da Computação na Universidade Estadual do Rio de Janeiro (UERJ)** e busco sempre evoluir em boas práticas de desenvolvimento, arquitetura de sistemas e integração entre serviços.
 
 ### 🔭 Interesses
 
