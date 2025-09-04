@@ -1,11 +1,5 @@
 # 👋 Olá! Eu sou o Jorge
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)](https://www.java.com)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)](https://spring.io)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/jorgegdoliveira)
-
 ## 🚀 Sobre mim
 
 Sou **desenvolvedor backend** do Rio de Janeiro, apaixonado por criar soluções escaláveis e eficientes.
