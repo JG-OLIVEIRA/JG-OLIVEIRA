@@ -88,6 +88,28 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
+> Sem descrição.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `15/05/2026`
+
+### 🔗 [auth-service-infra](https://github.com/JG-OLIVEIRA/auth-service-infra)
+> Sem descrição.
+
+![HCL](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service-infra?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `15/05/2026`
+
+### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
+> Projeto sobre autenticação e autorização utilizando o Spring Security
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `14/05/2026`
+
+### 🔗 [planner-api](https://github.com/JG-OLIVEIRA/planner-api)
+> Projeto realizado durante a 16.ª edição do Next Level Week utilizando o Spring Boot
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/planner-api?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/05/2026`
+
+
+> 🤖 Atualizado automaticamente em **15/05/2026 às 17:51 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -97,6 +119,10 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
+- ✨ **Criou** branch em [`JG-OLIVEIRA/JG-OLIVEIRA`](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA) · `15/05/2026`
+- 📦 **Push** em [`JG-OLIVEIRA/auth-service-infra`](https://github.com/JG-OLIVEIRA/auth-service-infra) — _push_ · `15/05/2026`
+- 📦 **Push** em [`JG-OLIVEIRA/auth-service`](https://github.com/JG-OLIVEIRA/auth-service) — _push_ · `14/05/2026`
+- ⭐ **Star** em [`buildrun-tech/buildrun-infra-terraform-pipeline`](https://github.com/buildrun-tech/buildrun-infra-terraform-pipeline) · `13/05/2026`
 <!-- ACTIVITY:END -->
 
 ---
