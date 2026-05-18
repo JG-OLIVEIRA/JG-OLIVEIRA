@@ -91,7 +91,7 @@ public class JorgeOliveira extends Developer {
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `16/05/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `17/05/2026`
 
 ### 🔗 [auth-service-infra](https://github.com/JG-OLIVEIRA/auth-service-infra)
 > Projeto sobre Infraestrutura como código (IaC) para auth-service usando AWS como provider
@@ -109,7 +109,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/planner-api?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **17/05/2026 às 08:29 UTC**
+> 🤖 Atualizado automaticamente em **18/05/2026 às 10:19 UTC**
 <!-- REPOS:END -->
 
 ---
