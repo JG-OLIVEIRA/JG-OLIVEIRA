@@ -91,7 +91,7 @@ public class JorgeOliveira extends Developer {
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `24/05/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `25/05/2026`
 
 ### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
 > Projeto sobre autenticação e autorização utilizando o Spring Security
@@ -109,7 +109,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/planner-api?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **25/05/2026 às 10:23 UTC**
+> 🤖 Atualizado automaticamente em **26/05/2026 às 10:11 UTC**
 <!-- REPOS:END -->
 
 ---
