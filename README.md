@@ -88,20 +88,25 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
-### 🔗 [email-service](https://github.com/JG-OLIVEIRA/email-service)
+### 🔗 [email-service-infra](https://github.com/JG-OLIVEIRA/email-service-infra)
 > Sem descrição.
 
-`—` ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `26/05/2026`
-
-### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
-> Sem descrição.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `26/05/2026`
+`—` ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service-infra?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
 
 ### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
 > Projeto sobre autenticação e autorização utilizando o Spring Security
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `22/05/2026`
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
+
+### 🔗 [email-service](https://github.com/JG-OLIVEIRA/email-service)
+> Projeto sobre envio de email usando RabbitMQ
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
+
+### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
+> Sem descrição.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `27/05/2026`
 
 ### 🔗 [auth-service-infra](https://github.com/JG-OLIVEIRA/auth-service-infra)
 > Projeto sobre Infraestrutura como código (IaC) para auth-service usando AWS como provider
@@ -114,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/planner-api?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **27/05/2026 às 10:08 UTC**
+> 🤖 Atualizado automaticamente em **28/05/2026 às 10:17 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -124,8 +129,9 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
-- ✨ **Criou** branch em [`JG-OLIVEIRA/email-service`](https://github.com/JG-OLIVEIRA/email-service) · `26/05/2026`
-- 📦 **Push** em [`JG-OLIVEIRA/auth-service`](https://github.com/JG-OLIVEIRA/auth-service) — _push_ · `22/05/2026`
+- ✨ **Criou** branch em [`JG-OLIVEIRA/email-service-infra`](https://github.com/JG-OLIVEIRA/email-service-infra) · `28/05/2026`
+- 📦 **Push** em [`JG-OLIVEIRA/email-service`](https://github.com/JG-OLIVEIRA/email-service) — _push_ · `28/05/2026`
+- 📦 **Push** em [`JG-OLIVEIRA/auth-service`](https://github.com/JG-OLIVEIRA/auth-service) — _push_ · `28/05/2026`
 <!-- ACTIVITY:END -->
 
 ---
