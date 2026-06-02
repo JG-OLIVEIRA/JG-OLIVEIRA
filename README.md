@@ -91,7 +91,7 @@ public class JorgeOliveira extends Developer {
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `31/05/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `01/06/2026`
 
 ### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
 > Projeto sobre autenticação e autorização utilizando o Spring Security
@@ -114,7 +114,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/planner-api?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **01/06/2026 às 11:49 UTC**
+> 🤖 Atualizado automaticamente em **02/06/2026 às 10:48 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -124,6 +124,7 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
+- ⭐ **Star** em [`sivaprasadreddy/spring-boot-microservices-series`](https://github.com/sivaprasadreddy/spring-boot-microservices-series) · `01/06/2026`
 - ⭐ **Star** em [`ali-bouali/microservices-full-code`](https://github.com/ali-bouali/microservices-full-code) · `28/05/2026`
 - ⭐ **Star** em [`SaiUpadhyayula/spring-boot-3-microservices-course`](https://github.com/SaiUpadhyayula/spring-boot-3-microservices-course) · `28/05/2026`
 - 🐛 **Issue** labeled em [`gossipuerj/gossipuerj-web`](https://github.com/gossipuerj/gossipuerj-web) · `28/05/2026`
