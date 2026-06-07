@@ -88,20 +88,20 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
-### 🔗 [product-service](https://github.com/JG-OLIVEIRA/product-service)
-> Sem descrição.
+### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
+> Projeto sobre autenticação e autorização utilizando o Spring Security
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/product-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `05/06/2026`
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `06/06/2026`
 
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `05/06/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `06/06/2026`
 
-### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
-> Projeto sobre autenticação e autorização utilizando o Spring Security
+### 🔗 [product-service](https://github.com/JG-OLIVEIRA/product-service)
+> Sem descrição.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/product-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `05/06/2026`
 
 ### 🔗 [email-service](https://github.com/JG-OLIVEIRA/email-service)
 > Projeto sobre envio de email usando RabbitMQ
@@ -119,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/planner-api?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **06/06/2026 às 08:42 UTC**
+> 🤖 Atualizado automaticamente em **07/06/2026 às 09:26 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -129,11 +129,11 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
+- 📦 **Push** em [`JG-OLIVEIRA/auth-service`](https://github.com/JG-OLIVEIRA/auth-service) — _push_ · `06/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/product-service`](https://github.com/JG-OLIVEIRA/product-service) — _push_ · `05/06/2026`
 - ⭐ **Star** em [`Amitabh-DevOps/CICD-NodeJs-App`](https://github.com/Amitabh-DevOps/CICD-NodeJs-App) · `03/06/2026`
 - ⭐ **Star** em [`sivaprasadreddy/spring-boot-microservices-series`](https://github.com/sivaprasadreddy/spring-boot-microservices-series) · `01/06/2026`
 - ⭐ **Star** em [`ali-bouali/microservices-full-code`](https://github.com/ali-bouali/microservices-full-code) · `28/05/2026`
-- ⭐ **Star** em [`SaiUpadhyayula/spring-boot-3-microservices-course`](https://github.com/SaiUpadhyayula/spring-boot-3-microservices-course) · `28/05/2026`
 <!-- ACTIVITY:END -->
 
 ---
