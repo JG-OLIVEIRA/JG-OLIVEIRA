@@ -88,15 +88,15 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
+> Sem descrição.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `08/06/2026`
+
 ### 🔗 [order-service](https://github.com/JG-OLIVEIRA/order-service)
 > Sem descrição.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/order-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `07/06/2026`
-
-### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
-> Sem descrição.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `07/06/2026`
 
 ### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
 > Projeto sobre autenticação e autorização utilizando o Spring Security
@@ -119,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![HCL](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service-infra?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `20/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **08/06/2026 às 11:10 UTC**
+> 🤖 Atualizado automaticamente em **09/06/2026 às 09:57 UTC**
 <!-- REPOS:END -->
 
 ---
