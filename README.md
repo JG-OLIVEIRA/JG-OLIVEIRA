@@ -88,10 +88,15 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [inventory-service](https://github.com/JG-OLIVEIRA/inventory-service)
+> Sem descrição.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/inventory-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/06/2026`
+
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `09/06/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/06/2026`
 
 ### 🔗 [order-service](https://github.com/JG-OLIVEIRA/order-service)
 > Sem descrição.
@@ -113,13 +118,8 @@ public class JorgeOliveira extends Developer {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
 
-### 🔗 [auth-service-infra](https://github.com/JG-OLIVEIRA/auth-service-infra)
-> Projeto sobre Infraestrutura como código (IaC) para auth-service usando AWS como provider
 
-![HCL](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/auth-service-infra?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `20/05/2026`
-
-
-> 🤖 Atualizado automaticamente em **10/06/2026 às 10:15 UTC**
+> 🤖 Atualizado automaticamente em **11/06/2026 às 10:50 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -129,11 +129,11 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
+- ✨ **Criou** branch em [`JG-OLIVEIRA/inventory-service`](https://github.com/JG-OLIVEIRA/inventory-service) · `10/06/2026`
 - ✨ **Criou** branch em [`JG-OLIVEIRA/order-service`](https://github.com/JG-OLIVEIRA/order-service) · `07/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/auth-service`](https://github.com/JG-OLIVEIRA/auth-service) — _push_ · `06/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/product-service`](https://github.com/JG-OLIVEIRA/product-service) — _push_ · `05/06/2026`
 - ⭐ **Star** em [`Amitabh-DevOps/CICD-NodeJs-App`](https://github.com/Amitabh-DevOps/CICD-NodeJs-App) · `03/06/2026`
-- ⭐ **Star** em [`sivaprasadreddy/spring-boot-microservices-series`](https://github.com/sivaprasadreddy/spring-boot-microservices-series) · `01/06/2026`
 <!-- ACTIVITY:END -->
 
 ---
