@@ -91,7 +91,7 @@ public class JorgeOliveira extends Developer {
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `18/06/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `19/06/2026`
 
 ### 🔗 [inventory-service](https://github.com/JG-OLIVEIRA/inventory-service)
 > Sem descrição.
@@ -119,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
 
 
-> 🤖 Atualizado automaticamente em **19/06/2026 às 10:49 UTC**
+> 🤖 Atualizado automaticamente em **20/06/2026 às 09:29 UTC**
 <!-- REPOS:END -->
 
 ---
