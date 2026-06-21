@@ -88,20 +88,25 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [api-gateway](https://github.com/JG-OLIVEIRA/api-gateway)
+> Sem descrição.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/api-gateway?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `20/06/2026`
+
+### 🔗 [order-service](https://github.com/JG-OLIVEIRA/order-service)
+> Sem descrição.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/order-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `20/06/2026`
+
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `19/06/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `20/06/2026`
 
 ### 🔗 [inventory-service](https://github.com/JG-OLIVEIRA/inventory-service)
 > Sem descrição.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/inventory-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `10/06/2026`
-
-### 🔗 [order-service](https://github.com/JG-OLIVEIRA/order-service)
-> Sem descrição.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/order-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `07/06/2026`
 
 ### 🔗 [auth-service](https://github.com/JG-OLIVEIRA/auth-service)
 > Projeto sobre autenticação e autorização utilizando o Spring Security
@@ -113,13 +118,8 @@ public class JorgeOliveira extends Developer {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/product-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `05/06/2026`
 
-### 🔗 [email-service](https://github.com/JG-OLIVEIRA/email-service)
-> Projeto sobre envio de email usando RabbitMQ
 
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/05/2026`
-
-
-> 🤖 Atualizado automaticamente em **20/06/2026 às 09:29 UTC**
+> 🤖 Atualizado automaticamente em **21/06/2026 às 09:59 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -129,11 +129,11 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
+- ✨ **Criou** branch em [`JG-OLIVEIRA/api-gateway`](https://github.com/JG-OLIVEIRA/api-gateway) · `20/06/2026`
+- 📦 **Push** em [`JG-OLIVEIRA/order-service`](https://github.com/JG-OLIVEIRA/order-service) — _push_ · `20/06/2026`
 - ✨ **Criou** branch em [`JG-OLIVEIRA/inventory-service`](https://github.com/JG-OLIVEIRA/inventory-service) · `10/06/2026`
-- ✨ **Criou** branch em [`JG-OLIVEIRA/order-service`](https://github.com/JG-OLIVEIRA/order-service) · `07/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/auth-service`](https://github.com/JG-OLIVEIRA/auth-service) — _push_ · `06/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/product-service`](https://github.com/JG-OLIVEIRA/product-service) — _push_ · `05/06/2026`
-- ⭐ **Star** em [`Amitabh-DevOps/CICD-NodeJs-App`](https://github.com/Amitabh-DevOps/CICD-NodeJs-App) · `03/06/2026`
 <!-- ACTIVITY:END -->
 
 ---
