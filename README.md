@@ -88,20 +88,20 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [api-gateway](https://github.com/JG-OLIVEIRA/api-gateway)
+> Sem descrição.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/api-gateway?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `27/06/2026`
+
 ### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
 > Sem descrição.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `25/06/2026`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `26/06/2026`
 
 ### 🔗 [order-service](https://github.com/JG-OLIVEIRA/order-service)
 > Sem descrição.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/order-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `23/06/2026`
-
-### 🔗 [api-gateway](https://github.com/JG-OLIVEIRA/api-gateway)
-> Sem descrição.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/api-gateway?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `23/06/2026`
 
 ### 🔗 [inventory-service](https://github.com/JG-OLIVEIRA/inventory-service)
 > Sem descrição.
@@ -119,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `21/06/2026`
 
 
-> 🤖 Atualizado automaticamente em **26/06/2026 às 09:41 UTC**
+> 🤖 Atualizado automaticamente em **27/06/2026 às 08:45 UTC**
 <!-- REPOS:END -->
 
 ---
@@ -129,8 +129,8 @@ public class JorgeOliveira extends Developer {
 > 🤖 Últimas ações no GitHub, atualizadas automaticamente.
 
 <!-- ACTIVITY:START -->
+- 📦 **Push** em [`JG-OLIVEIRA/api-gateway`](https://github.com/JG-OLIVEIRA/api-gateway) — _push_ · `27/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/order-service`](https://github.com/JG-OLIVEIRA/order-service) — _push_ · `23/06/2026`
-- 📦 **Push** em [`JG-OLIVEIRA/api-gateway`](https://github.com/JG-OLIVEIRA/api-gateway) — _push_ · `23/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/inventory-service`](https://github.com/JG-OLIVEIRA/inventory-service) — _push_ · `22/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/product-service`](https://github.com/JG-OLIVEIRA/product-service) — _push_ · `22/06/2026`
 - 📦 **Push** em [`JG-OLIVEIRA/email-service`](https://github.com/JG-OLIVEIRA/email-service) — _push_ · `21/06/2026`
