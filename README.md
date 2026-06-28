@@ -88,15 +88,15 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
+> Sem descrição.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `27/06/2026`
+
 ### 🔗 [api-gateway](https://github.com/JG-OLIVEIRA/api-gateway)
 > Sem descrição.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/api-gateway?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `27/06/2026`
-
-### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
-> Sem descrição.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `26/06/2026`
 
 ### 🔗 [order-service](https://github.com/JG-OLIVEIRA/order-service)
 > Sem descrição.
@@ -119,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/email-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `21/06/2026`
 
 
-> 🤖 Atualizado automaticamente em **27/06/2026 às 08:45 UTC**
+> 🤖 Atualizado automaticamente em **28/06/2026 às 09:22 UTC**
 <!-- REPOS:END -->
 
 ---
