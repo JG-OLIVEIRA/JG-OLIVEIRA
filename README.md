@@ -88,15 +88,15 @@ public class JorgeOliveira extends Developer {
 > ⚡ Esta seção é **atualizada automaticamente** todo dia via GitHub Actions — sempre reflete meus projetos mais recentes!
 
 <!-- REPOS:START -->
+### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
+> Sem descrição.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `29/06/2026`
+
 ### 🔗 [mastering-java](https://github.com/JG-OLIVEIRA/mastering-java)
 > Sem descrição.
 
 `—` ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/mastering-java?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `29/06/2026`
-
-### 🔗 [JG-OLIVEIRA](https://github.com/JG-OLIVEIRA/JG-OLIVEIRA)
-> Sem descrição.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/JG-OLIVEIRA?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `28/06/2026`
 
 ### 🔗 [api-gateway](https://github.com/JG-OLIVEIRA/api-gateway)
 > Sem descrição.
@@ -119,7 +119,7 @@ public class JorgeOliveira extends Developer {
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Stars](https://img.shields.io/github/stars/JG-OLIVEIRA/product-service?style=flat-square&color=F97316&labelColor=0d1117) · 🕒 Atualizado em `22/06/2026`
 
 
-> 🤖 Atualizado automaticamente em **29/06/2026 às 11:15 UTC**
+> 🤖 Atualizado automaticamente em **30/06/2026 às 09:53 UTC**
 <!-- REPOS:END -->
 
 ---
