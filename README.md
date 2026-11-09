@@ -26,61 +26,13 @@ Gosto de resolver problemas de negócio com soluções simples, acompanhar uma f
 - Docker, Kubernetes, AWS, Jenkins e GitHub Actions
 - Git, code review, CI/CD, observabilidade e práticas de resiliência
 
-## Formação e estudos
-
-**Fundamentos do Java**
-- [ ] Estruturas de dados e Collections Framework
-- [ ] APIs de concorrência, I/O, Reflection e JDBC
-- [ ] Programação funcional com Streams, Lambdas e Functional Interfaces
-- [ ] Maven, Gradle e gerenciamento de dependências
-
-**Backend Java**
-- [ ] APIs REST com Spring Boot e Quarkus
-- [ ] Segurança com OAuth2, JWT, Spring Security e Quarkus Security
-- [ ] Persistência com JPA, Hibernate e Panache
-- [ ] Programação reativa com WebFlux
-
-**Arquitetura e sistemas distribuídos**
-- [ ] Clean Architecture, DDD e Design Patterns
-- [ ] Kafka, RabbitMQ, CQRS e Event Sourcing
-- [ ] Escalabilidade, cache, tolerância a falhas e alta disponibilidade
-- [ ] Observabilidade com OpenTelemetry, métricas e tracing
-
-**Cloud, qualidade e IA aplicada**
-- [ ] Docker, Kubernetes e CI/CD com Jenkins e GitHub Actions
-- [ ] Integração de aplicações Java com serviços AWS
-- [ ] TDD, testes de integração, Testcontainers e qualidade com Sonar
-- [ ] IA corporativa com LangChain4j, RAG e agentes inteligentes
-- [ ] Integração com ferramentas de IA usando Model Context Protocol (MCP)
-
 ## Projeto principal
 
-### 🔧 [Nome do projeto]
-Aplicação backend em Java e Spring Boot com API REST, autenticação, persistência em banco de dados, mensageria, tratamento de erros e testes automatizados.
+### 🔧 [Currency Converter](https://github.com/JG-OLIVEIRA/currency-converter)
+Aplicação backend em Java e Spring Boot com API REST, autenticação, persistência em banco de dados, tratamento de erros e testes automatizados.
 
-**Stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Kafka · JUnit · Docker
-**Status:** 🟡 em desenvolvimento
-[Repositório](https://github.com/seu-usuario/projeto)
-
-```
-Cliente → API REST → Domínio → Persistência (JPA) → PostgreSQL
-              ↘ Eventos (Kafka) · Testes (JUnit/Mockito)
-```
-
-## Próximos projetos
-
-- [ ] Microsserviço com Quarkus, Panache e compilação nativa
-- [ ] API com OAuth2, JWT, documentação OpenAPI e testes de integração
-- [ ] Serviço orientado a eventos com Kafka e resiliência
-- [ ] Aplicação Java com RAG usando LangChain4j
-
-## Projetos e estudos
-
-| Data | O que estudei | Link |
-|------|---------------|------|
-| [mês/ano] | [ex.: Collections, Streams e programação funcional] | [notas/repositório] |
-| [mês/ano] | [ex.: APIs REST com Spring Boot e segurança JWT] | [notas/repositório] |
-| [mês/ano] | [ex.: Concorrência e Virtual Threads] | [notas/repositório] |
+- **Stack:** Java · Spring Boot · Spring Data JPA · Spring Security · H2 Database · JUnit
+- **Status:** 🟡 em desenvolvimento
 
 ## Vamos conversar?
 
